@@ -6,7 +6,7 @@ The TTP Telemetry project was essentially constructed to illustrate the events g
 
 ### Skills Learned
 
-- Ability to interpret logs within a SIEM
+- Ability to interpret logs within a SIEM.
 - Cultivation of logs related to attack patterns.
 - Deployment of a Splunk server, forwarder, and interface.
 
@@ -18,11 +18,20 @@ The TTP Telemetry project was essentially constructed to illustrate the events g
 - Sysmon
 - Atomic Red Team
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Guide
 
-Every screenshot should have some text explaining what the screenshot is about.
+ Ref 1: Network Diagram.
 
-Example below.
+![Screenshot (1722)](https://github.com/Cyber-ic5/TTP-Telemetry/assets/169179159/d6a8303a-2981-4e97-96bd-537f9a77e883)
 
-*Ref 1: Network Diagram*
+Ref 2: Using Atomic Red Team script to simulate Mitre ATT&CK persistence sub-technique T1136.001, creation of local account.
+
+![Screenshot (1716)](https://github.com/Cyber-ic5/TTP-Telemetry/assets/169179159/24239327-4eb7-4959-9332-9507db8f946d)
+
+Ref 3: Splunk query to locate log.
+
+![Screenshot (1718)](https://github.com/Cyber-ic5/TTP-Telemetry/assets/169179159/cc44efa9-8ec9-4dd7-a224-e5bd14c6613d)
+
+Ref 4: Splunk log segment of event generated.
+
+![Screenshot (1717)](https://github.com/Cyber-ic5/TTP-Telemetry/assets/169179159/bf615cbb-1a76-43b9-9a53-7565fddac18b)
