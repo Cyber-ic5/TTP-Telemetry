@@ -1,4 +1,4 @@
-# TTP TELEMETRY
+# TTP Telemetry
 
 ## Objective
 [Brief Objective - Remove this afterwards]
