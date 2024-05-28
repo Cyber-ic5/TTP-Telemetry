@@ -25,7 +25,7 @@ The TTP Telemetry project was essentially constructed to illustrate the events g
 
 ![Screenshot (1722)](https://github.com/Cyber-ic5/TTP-Telemetry/assets/169179159/d6a8303a-2981-4e97-96bd-537f9a77e883)
 
-Ref 2: Using Atomic Red Team Powershell script to simulate Mitre ATT&CK persistence sub-technique T1136.001, creation of local account.
+Ref 2: Using Atomic Red Team Powershell script on the Windows 10 machine to simulate Mitre ATT&CK persistence sub-technique T1136.001, creation of local account.
 
 ![Screenshot (1716)](https://github.com/Cyber-ic5/TTP-Telemetry/assets/169179159/24239327-4eb7-4959-9332-9507db8f946d)
 
